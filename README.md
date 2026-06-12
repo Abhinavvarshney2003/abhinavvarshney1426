@@ -25,14 +25,14 @@
   <a href="https://linkedin.com/in/abhinav-sushil-varshney">
     <img src="https://img.shields.io/badge/LinkedIn-abhinav--sushil--varshney-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/abhinavvarshney1426">
-    <img src="https://img.shields.io/badge/GitHub-abhinavvarshney1426-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Abhinavvarshney2003">
+    <img src="https://img.shields.io/badge/GitHub-Abhinavvarshney2003-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinavvarshney1426&label=Profile%20Views&color=7C3AED&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/abhinavvarshney1426?label=Followers&style=flat-square&color=6D28D9&labelColor=1e1e2e" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinavvarshney2003&label=Profile%20Views&color=7C3AED&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Abhinavvarshney2003?label=Followers&style=flat-square&color=6D28D9&labelColor=1e1e2e" />
 </p>
 
 ---
@@ -292,16 +292,16 @@ Completed Cisco's AICTE Virtual Internship Program (VIP) in Cybersecurity — an
 ## `$ cat coding-profiles.md`
 
 <p align="center">
-  <a href="https://leetcode.com/abhinavvarshney1426">
+  <a href="https://leetcode.com/Abhinavvarshney2003">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/abhinavvarshney1426">
+  <a href="https://www.geeksforgeeks.org/user/Abhinavvarshney2003">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/abhinavvarshney1426">
+  <a href="https://www.hackerrank.com/Abhinavvarshney2003">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/abhinavvarshney1426">
+  <a href="https://www.codechef.com/users/Abhinavvarshney2003">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
@@ -311,12 +311,12 @@ Completed Cisco's AICTE Virtual Internship Program (VIP) in Cybersecurity — an
 ## `$ github --analytics`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavvarshney1426&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavvarshney1426&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinavvarshney2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavvarshney2003&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavvarshney1426&theme=tokyonight&hide_border=false&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&background=0d1117&dates=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=Abhinavvarshney2003&theme=tokyonight&hide_border=false&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&background=0d1117&dates=c9d1d9" />
 </p>
 
 ---
@@ -324,7 +324,7 @@ Completed Cisco's AICTE Virtual Internship Program (VIP) in Cybersecurity — an
 ## `$ github --trophies`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavvarshney1426&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavvarshney2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </p>
 
 ---
@@ -332,7 +332,7 @@ Completed Cisco's AICTE Virtual Internship Program (VIP) in Cybersecurity — an
 ## `$ git log --activity`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavvarshney1426&bg_color=0d1117&color=A855F7&line=7C3AED&point=C084FC&area=true&area_color=6D28D9&hide_border=false&border_color=7C3AED&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavvarshney2003&bg_color=0d1117&color=A855F7&line=7C3AED&point=C084FC&area=true&area_color=6D28D9&hide_border=false&border_color=7C3AED&custom_title=Contribution%20Activity" />
 </p>
 
 ---
@@ -340,7 +340,7 @@ Completed Cisco's AICTE Virtual Internship Program (VIP) in Cybersecurity — an
 ## `$ watch snake-contribution`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinavvarshney1426/abhinavvarshney1426/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Abhinavvarshney2003/Abhinavvarshney2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -387,7 +387,7 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/abhinavvarshney1426">
+  <a href="https://github.com/Abhinavvarshney2003">
     <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
