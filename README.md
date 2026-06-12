@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Business%20Systems-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Amity%20University-Noida%2C%20UP-7C3AED?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/2026-Expected%20Graduation-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/2026-Graduated-8B5CF6?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ class AbhinavVarshney:
     def __init__(self):
         self.name         = "Abhinav Sushil Varshney"
         self.role         = "AI Engineer & Full Stack Developer"
-        self.education    = "B.Tech CSE (Business Systems) @ Amity University, 2026"
+        self.education    = "B.Tech CSE (Business Systems) @ Amity University — Graduated 2026"
         self.location     = "Noida, Uttar Pradesh, India"
 
         self.expertise    = [
